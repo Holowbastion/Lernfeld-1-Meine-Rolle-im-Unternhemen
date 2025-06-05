@@ -1,0 +1,635 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.14)  3 JUN 2025 10:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Lernfeld_1.tex
+(Lernfeld_1.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/02/02 v25.3 The multilingual framework for pdfLaTeX, LuaLaT
+eX and XeLaTeX
+\babel@savecnt=\count270
+\U@D=\dimen142
+\l@unhyphenated=\language79
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count271
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.
+ldf
+Language: ngerman 2024/12/10 v2.15 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb
+.ldf
+Language: ngermanb 2024/12/10 v2.15 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+)))
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\bab
+el-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/fira\FiraMono.sty
+Package: FiraMono 2022/09/17 (Bob Tennent and autoinst) Style file for Fira Mon
+o fonts.
+
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.te
+x
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count272
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+))
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.s
+ty
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+ (C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count273
+\calc@Bcount=\count274
+\calc@Adimen=\dimen145
+\calc@Bdimen=\dimen146
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count275
+\calc@Cskip=\skip53
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+) (C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip54
+For additional information on amsmath, use the `?' option.
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen147
+))
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count276
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count277
+\leftroot@=\count278
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count279
+\DOTSCASE@=\count280
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count281
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count282
+\dotsspace@=\muskip17
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
+\tag@help=\toks21
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
+\andhelp@=\toks22
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks23
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+\g_MT_multlinerow_int=\count288
+\l_MT_multwidth_dim=\dimen156
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen157
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen158
+\l_MT_above_intertext_sep=\dimen159
+\l_MT_below_intertext_sep=\dimen160
+\l_MT_above_shortintertext_sep=\dimen161
+\l_MT_below_shortintertext_sep=\dimen162
+\xmathstrut@box=\box54
+\xmathstrut@dim=\dimen163
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip58
+\aftertitleunit=\skip59
+\ttl@plus=\dimen164
+\ttl@minus=\dimen165
+\ttl@toksa=\toks25
+\titlewidth=\dimen166
+\titlewidthlast=\dimen167
+\titlewidthfirst=\dimen168
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box56
+) (Lernfeld_1.aux)
+\openout1 = `Lernfeld_1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen169
+\scratchbox=\box57
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen170
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\aherget\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@mv@tabular=\count296
+\c@mv@boldtabular=\count297
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+
+[1
+
+{C:/Users/aherget/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(Lernfeld_1.toc
+
+[2])
+\tf@toc=\write3
+\openout3 = `Lernfeld_1.toc'.
+
+
+
+[3]
+
+[4]
+<assetes/Anspruchsgruppen Unternehmen.png, id=21, 528.47438pt x 274.77657pt>
+File: assetes/Anspruchsgruppen Unternehmen.png Graphic file (type png)
+<use assetes/Anspruchsgruppen Unternehmen.png>
+Package pdftex.def Info: assetes/Anspruchsgruppen Unternehmen.png  used on inpu
+t line 61.
+(pdftex.def)             Requested size: 345.0pt x 179.3783pt.
+<assetes/Unternehmeskultur.png, id=22, 385.44pt x 252.945pt>
+File: assetes/Unternehmeskultur.png Graphic file (type png)
+<use assetes/Unternehmeskultur.png>
+Package pdftex.def Info: assetes/Unternehmeskultur.png  used on input line 70.
+(pdftex.def)             Requested size: 230.0pt x 150.93448pt.
+
+
+[5 <./assetes/Anspruchsgruppen Unternehmen.png>]
+<assetes/Unternehmesidentität.png, id=26, 372.64218pt x 292.09125pt>
+File: assetes/Unternehmesidentität.png Graphic file (type png)
+<use assetes/Unternehmesidentität.png>
+Package pdftex.def Info: assetes/Unternehmesidentität.png  used on input line 
+76.
+(pdftex.def)             Requested size: 230.0pt x 180.27907pt.
+
+
+[6 <./assetes/Unternehmeskultur.png> <./assetes/Unternehmesidentität.png>]
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Overfull \hbox (28.41852pt too wide) in paragraph at lines 127--129
+\OT1/cmr/m/n/10 Bau-er, M[]uller und B[]acker bil-den hier-bei Pro-duk-ti-ons-s
+tu-fen um Wertsch[]opfungssystem. 
+ []
+
+<assetes/Wertschöpfung im Betrieb.png, id=34, 564.30824pt x 347.49825pt>
+File: assetes/Wertschöpfung im Betrieb.png Graphic file (type png)
+<use assetes/Wertschöpfung im Betrieb.png>
+Package pdftex.def Info: assetes/Wertschöpfung im Betrieb.png  used on input l
+ine 131.
+(pdftex.def)             Requested size: 345.0pt x 212.45612pt.
+
+
+[8]
+
+[9 <./assetes/Wertschöpfung im Betrieb.png>]
+
+[10]
+
+[11]
+<assetes/Struktur.png, id=53, 331.83975pt x 193.32225pt>
+File: assetes/Struktur.png Graphic file (type png)
+<use assetes/Struktur.png>
+Package pdftex.def Info: assetes/Struktur.png  used on input line 186.
+(pdftex.def)             Requested size: 241.49895pt x 140.69633pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<assetes/Organigramm - Einliniensystem.png, id=54, 213.79875pt x 217.41225pt>
+File: assetes/Organigramm - Einliniensystem.png Graphic file (type png)
+<use assetes/Organigramm - Einliniensystem.png>
+Package pdftex.def Info: assetes/Organigramm - Einliniensystem.png  used on inp
+ut line 196.
+(pdftex.def)             Requested size: 241.49895pt x 245.58006pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<assetes/Organigramm - Stabsliniensystem.png, id=55, 302.3295pt x 217.41225pt>
+File: assetes/Organigramm - Stabsliniensystem.png Graphic file (type png)
+<use assetes/Organigramm - Stabsliniensystem.png>
+Package pdftex.def Info: assetes/Organigramm - Stabsliniensystem.png  used on i
+nput line 205.
+(pdftex.def)             Requested size: 241.49895pt x 173.66461pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<assetes/Organigramm - Mehrliniensystem.png, id=56, 213.79875pt x 221.02576pt>
+File: assetes/Organigramm - Mehrliniensystem.png Graphic file (type png)
+<use assetes/Organigramm - Mehrliniensystem.png>
+Package pdftex.def Info: assetes/Organigramm - Mehrliniensystem.png  used on in
+put line 215.
+(pdftex.def)             Requested size: 241.49895pt x 249.66176pt.
+
+
+[12]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<assetes/Organigramm - Matrixorganisation.png, id=60, 236.68425pt x 173.448pt>
+File: assetes/Organigramm - Matrixorganisation.png Graphic file (type png)
+<use assetes/Organigramm - Matrixorganisation.png>
+Package pdftex.def Info: assetes/Organigramm - Matrixorganisation.png  used on 
+input line 225.
+(pdftex.def)             Requested size: 241.49895pt x 176.98341pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (0.11502pt too wide) in paragraph at lines 232--233
+[]\OT1/cmr/m/n/10 Instanz: Wei-sungs-be-fug-ni-sebe-ne ge-gen[]uber meh-re-ren 
+rangnied-ri-ge-ren Stel-
+ []
+
+
+
+[13 <./assetes/Struktur.png> <./assetes/Organigramm - Einliniensystem.png>]
+
+[14 <./assetes/Organigramm - Stabsliniensystem.png> <./assetes/Organigramm - Me
+hrliniensystem.png>]
+
+[15 <./assetes/Organigramm - Matrixorganisation.png>]
+<assetes/Rechtsform.png, id=76, 380.01974pt x 269.20575pt>
+File: assetes/Rechtsform.png Graphic file (type png)
+<use assetes/Rechtsform.png>
+Package pdftex.def Info: assetes/Rechtsform.png  used on input line 248.
+(pdftex.def)             Requested size: 241.49895pt x 171.07518pt.
+
+Underfull \hbox (badness 4765) in paragraph at lines 272--273
+\OT1/cmr/m/n/10 auf Al-ter, Ge-schlecht und
+ []
+
+
+
+[16 <./assetes/Rechtsform.png>]
+Underfull \hbox (badness 2875) in paragraph at lines 299--300
+\OT1/cmr/m/n/10 le ge-setz-li-chen Rech-te und
+ []
+
+
+
+[17]
+Overfull \hbox (90.12569pt too wide) in paragraph at lines 308--323
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+[]\OT1/cmr/m/n/10 kein vor-ge-schr. Un-ter-neh-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+[]\OT1/cmr/m/n/10 Gr[]undung form-los und
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 346--347
+[]\OT1/cmr/m/n/10 private Haf-tung in vol-lem
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 357--358
+[]\OT1/cmr/m/n/10 Kein vor-ge-schrie-be-nes Min-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
+[]\OT1/cmr/m/n/10 Interne Aus-ein-an-der-set-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
+\OT1/cmr/m/n/10 zun-gen k[]onnen schnell
+ []
+
+
+
+[18]
+Underfull \hbox (badness 5374) in paragraph at lines 377--378
+[]\OT1/cmr/m/n/10 kein vor-ge-schrie-be-nes Min-
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 379--380
+[]\OT1/cmr/m/n/10 jeder Ge-sell-schaf-ter be-sitzt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+[]\OT1/cmr/m/n/10 nur Kom-ple-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+\OT1/cmr/m/n/10 ment[]ar(Gesch[]aftsf[]uhrer)
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 410--411
+[]\OT1/cmr/m/n/10 Kommanditist be-sitzt kei-ne
+ []
+
+
+Overfull \hbox (5.59857pt too wide) in paragraph at lines 410--411
+\OT1/cmr/m/n/10 Gesch[]aftsf[]uhrungsberechtigung 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+[]\OT1/cmr/m/n/10 Haftung nur mit dem
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 432--433
+[]\OT1/cmr/m/n/10 Kapitalbeschaffung schwie-ri-
+ []
+
+
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+[]\OT1/cmr/m/n/10 Haftung nur mit dem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+[]\OT1/cmr/m/n/10 Kapitalbeschaffung noch
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 454--455
+\OT1/cmr/m/n/10 R[]ucklage von 1/3 des Ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
+[]\OT1/cmr/m/n/10 Haftung nur mit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
+[]\OT1/cmr/m/n/10 aufw[]andige Ent-schei-dungs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+[]\OT1/cmr/m/n/10 hoher Fi-nan-z-auf-wand zur
+ []
+
+
+
+[20]
+<assetes/GmbH und Co KG.png, id=94, 475.17525pt x 208.3785pt>
+File: assetes/GmbH und Co KG.png Graphic file (type png)
+<use assetes/GmbH und Co KG.png>
+Package pdftex.def Info: assetes/GmbH und Co KG.png  used on input line 496.
+(pdftex.def)             Requested size: 241.49895pt x 105.90279pt.
+
+
+[21 <./assetes/GmbH und Co KG.png>]
+
+[22]
+
+[23] (Lernfeld_1.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 7164 strings out of 473529
+ 131666 string characters out of 5713805
+ 565681 words of memory out of 5000000
+ 30318 multiletter control sequences out of 15000+600000
+ 565508 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,7n,79p,625b,298s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\aherget\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
+rm1000.pk><C:/Users/aherget/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Users/aherget/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/aherget/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/aherget/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/aherget/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aherget
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Use
+rs/aherget/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Users/aherget/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmr9.pfb><C:/Users/aherget/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Users/aherget/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb>
+Output written on Lernfeld_1.pdf (23 pages, 605390 bytes).
+PDF statistics:
+ 153 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+

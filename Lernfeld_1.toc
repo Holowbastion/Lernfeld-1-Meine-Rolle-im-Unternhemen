@@ -1,0 +1,52 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {0}Thementag 0 - 30.08.2024}{4}{}%
+\contentsline {subsection}{\numberline {0.1}Dokumentieren}{4}{}%
+\contentsline {section}{\numberline {1}Thementag 1 - 20.09.2024}{4}{}%
+\contentsline {subsection}{\numberline {1.1}Übersicht über das Lernfeld}{4}{}%
+\contentsline {section}{\numberline {2}Thementag 2 - 11.10.2024}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Leitbild und Unternehmenskultur}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Anspruchsgruppen von Unternehmen}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Unternehmenskultur}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Unternehmensidentität zur Unternehmensphilosophie}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}Unternehmensleitbild}{7}{}%
+\contentsline {subsubsection}{\numberline {2.1.5}Unternehmensziele}{7}{}%
+\contentsline {section}{\numberline {3}Thementag 3 - 06.12.2024}{8}{}%
+\contentsline {subsection}{\numberline {3.1}Wertschöpfungssystem}{8}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Produktionsfaktoren}{8}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Wertschöpfungssystem}{8}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Wertschöpfungssystem im Betrieb}{9}{}%
+\contentsline {section}{\numberline {4}Thementag 4 - 15.01.2025}{10}{}%
+\contentsline {subsection}{\numberline {4.1}Marktstruktur und Markt}{10}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Markt}{10}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Marktarten}{10}{}%
+\contentsline {subsubsection}{\numberline {4.1.3}Marktformen}{10}{}%
+\contentsline {subsubsection}{\numberline {4.1.4}Marketing}{10}{}%
+\contentsline {subsubsection}{\numberline {4.1.5}Marktanalyse}{11}{}%
+\contentsline {subsubsection}{\numberline {4.1.6}Marktanteil}{11}{}%
+\contentsline {section}{\numberline {5}Thementag 5 - 07.02.2025}{12}{}%
+\contentsline {subsection}{\numberline {5.1}Organisationsstruktur}{12}{}%
+\contentsline {subsection}{\numberline {5.2}Betriebliche Organisation}{12}{}%
+\contentsline {subsection}{\numberline {5.3}Organisationsgrundsätze}{12}{}%
+\contentsline {subsection}{\numberline {5.4}Struktur}{12}{}%
+\contentsline {subsection}{\numberline {5.5}Organigramme - Einliniensystem}{12}{}%
+\contentsline {subsection}{\numberline {5.6}Organigramme - Stabsliniensystem}{12}{}%
+\contentsline {subsection}{\numberline {5.7}Organigramme - Mehrliniensystem}{13}{}%
+\contentsline {subsection}{\numberline {5.8}Organigramme - Matrixorganisation}{13}{}%
+\contentsline {subsection}{\numberline {5.9}Wichtige Begrifflichkeiten}{14}{}%
+\contentsline {section}{\numberline {6}Thementag 6 - 28.02.2025}{16}{}%
+\contentsline {subsection}{\numberline {6.1}Rechtsformen im Überblick}{16}{}%
+\contentsline {subsection}{\numberline {6.2}Gründe für eine Wahl einer Rechtsform}{16}{}%
+\contentsline {subsection}{\numberline {6.3}Personen im Rechtsverkehr}{17}{}%
+\contentsline {subsection}{\numberline {6.4}Rechtsfähigkeit}{17}{}%
+\contentsline {subsection}{\numberline {6.5}Rechtsformen im Überblick und Erläuterung}{18}{}%
+\contentsline {subsubsection}{\numberline {6.5.1}Einzelunternehmung}{18}{}%
+\contentsline {subsubsection}{\numberline {6.5.2}Gesellschaft bürgerlichen Rechts}{18}{}%
+\contentsline {subsubsection}{\numberline {6.5.3}Offene Handelsgesellschaft (OHG)}{19}{}%
+\contentsline {subsubsection}{\numberline {6.5.4}Kommanditgesellschaft (KG)}{19}{}%
+\contentsline {subsubsection}{\numberline {6.5.5}Gesellschaft mit beschränkter Haftung (GmbH)}{19}{}%
+\contentsline {subsubsection}{\numberline {6.5.6}Unternehmergesellschaft (UG)}{20}{}%
+\contentsline {subsubsection}{\numberline {6.5.7}Aktiengesellschaft (AG)}{20}{}%
+\contentsline {subsubsection}{\numberline {6.5.8}Sonderform GmbH \& Co. KG}{21}{}%
+\contentsline {subsection}{\numberline {6.6}Eigener Handlungs- und Entscheidungsspielraum}{22}{}%
+\contentsline {subsubsection}{\numberline {6.6.1}Prokura}{22}{}%
+\contentsline {subsubsection}{\numberline {6.6.2}Handlungsvollmacht}{23}{}%
